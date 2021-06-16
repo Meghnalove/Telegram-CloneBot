@@ -10,7 +10,7 @@ OWNER_ID = 930652019
 # Example: OWNER_ID = 619418070
 AUTHORISED_USERS = [930652019]
 # Example: AUTHORISED_USERS = [63055333, 100483029, -1003943959]
-INDEX_URL = ""
+INDEX_URL = "postgres://zqmodpdyyxtslp:29113587c5cde7670c631a80549503e8947b2cb3382401c24029bb461b0fb065@ec2-3-89-0-52.compute-1.amazonaws.com:5432/d2haso7bfraj44"
 IS_TEAM_DRIVE = True
 USE_SERVICE_ACCOUNTS = True
 # --------------------------------------
